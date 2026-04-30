@@ -159,3 +159,4 @@ If you want to say all this cleanly:
 > Node.js is a JavaScript runtime built on the V8 engine. It is single-threaded and executes code synchronously, but uses a non-blocking, asynchronous model powered by the event loop and libuv. It allows background processing of tasks like file system and network operations using a thread pool (default 4 threads). It also provides core modules like fs, http, path, and stream, making it efficient for building scalable backend applications.
 
 ---
+
