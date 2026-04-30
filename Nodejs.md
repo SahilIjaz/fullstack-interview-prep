@@ -169,3 +169,4 @@ If you want to say all this cleanly:
 - Node.js supports both CommonJS and ES modules for organizing code.
 - Node.js can be used to build command-line tools and automation scripts.
 - Developers often use Node.js with Express, Fastify, or Koa for web servers.
+- Node.js is used in production by many large companies for backend services.
