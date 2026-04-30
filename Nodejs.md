@@ -166,3 +166,4 @@ If you want to say all this cleanly:
 - Node.js is cross-platform and runs on Windows, macOS, and Linux.
 - Node.js package manager npm makes installing and sharing libraries easy.
 - Node.js is ideal for I/O-bound applications like web APIs and real-time services.
+- Node.js supports both CommonJS and ES modules for organizing code.
