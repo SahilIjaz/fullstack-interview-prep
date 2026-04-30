@@ -167,3 +167,4 @@ If you want to say all this cleanly:
 - Node.js package manager npm makes installing and sharing libraries easy.
 - Node.js is ideal for I/O-bound applications like web APIs and real-time services.
 - Node.js supports both CommonJS and ES modules for organizing code.
+- Node.js can be used to build command-line tools and automation scripts.
