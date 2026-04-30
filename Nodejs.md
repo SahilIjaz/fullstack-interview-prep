@@ -168,3 +168,4 @@ If you want to say all this cleanly:
 - Node.js is ideal for I/O-bound applications like web APIs and real-time services.
 - Node.js supports both CommonJS and ES modules for organizing code.
 - Node.js can be used to build command-line tools and automation scripts.
+- Developers often use Node.js with Express, Fastify, or Koa for web servers.
