@@ -170,3 +170,4 @@ If you want to say all this cleanly:
 - Node.js can be used to build command-line tools and automation scripts.
 - Developers often use Node.js with Express, Fastify, or Koa for web servers.
 - Node.js is used in production by many large companies for backend services.
+- Node.js applications can be scaled horizontally with process clustering.
