@@ -169,3 +169,4 @@ If you want to say all this cleanly:
 - Node.js allows developers to use JavaScript on both frontend and backend.
 - The npm ecosystem contains millions of packages for various functionalities.
 - Node.js uses event-driven architecture for efficient handling of I/O operations.
+- Middleware in Node.js applications helps in request processing and filtering.
