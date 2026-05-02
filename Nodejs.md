@@ -179,3 +179,4 @@ If you want to say all this cleanly:
 - Node.js supports WebSockets for bidirectional real-time communication.
 - Memory management in Node.js requires understanding of garbage collection.
 - Node.js can be used for building RESTful APIs with proper status codes.
+- Authentication and authorization are important security concepts in Node.js.
