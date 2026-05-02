@@ -180,3 +180,4 @@ If you want to say all this cleanly:
 - Memory management in Node.js requires understanding of garbage collection.
 - Node.js can be used for building RESTful APIs with proper status codes.
 - Authentication and authorization are important security concepts in Node.js.
+- Node.js supports caching strategies to improve application performance.
