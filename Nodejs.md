@@ -165,3 +165,4 @@ If you want to say all this cleanly:
 # Additional Node.js Notes
 - Node.js is cross-platform and runs on Windows, macOS, and Linux.
 
+- Node.js package manager npm makes installing and sharing libraries easy.
