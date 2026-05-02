@@ -187,3 +187,4 @@ If you want to say all this cleanly:
 - Node.js supports GraphQL for flexible API query and data manipulation.
 - Security best practices include input validation and sanitization in Node.js.
 - Node.js applications should implement rate limiting to prevent abuse.
+- Performance optimization in Node.js involves analyzing and reducing bottlenecks.
