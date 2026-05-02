@@ -181,3 +181,4 @@ If you want to say all this cleanly:
 - Node.js can be used for building RESTful APIs with proper status codes.
 - Authentication and authorization are important security concepts in Node.js.
 - Node.js supports caching strategies to improve application performance.
+- Logging and monitoring tools help track application behavior in production.
