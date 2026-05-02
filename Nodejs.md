@@ -166,3 +166,4 @@ If you want to say all this cleanly:
 - Node.js is cross-platform and runs on Windows, macOS, and Linux.
 
 - Node.js package manager npm makes installing and sharing libraries easy.
+- Node.js allows developers to use JavaScript on both frontend and backend.
