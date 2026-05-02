@@ -185,3 +185,4 @@ If you want to say all this cleanly:
 - Node.js applications benefit from using dependency injection patterns.
 - Container technologies like Docker make Node.js deployment reproducible.
 - Node.js supports GraphQL for flexible API query and data manipulation.
+- Security best practices include input validation and sanitization in Node.js.
