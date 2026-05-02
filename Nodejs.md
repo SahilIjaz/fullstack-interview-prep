@@ -164,13 +164,4 @@ If you want to say all this cleanly:
 ---
 # Additional Node.js Notes
 - Node.js is cross-platform and runs on Windows, macOS, and Linux.
-- Node.js package manager npm makes installing and sharing libraries easy.
-- Node.js is ideal for I/O-bound applications like web APIs and real-time services.
-- Node.js supports both CommonJS and ES modules for organizing code.
-- Node.js can be used to build command-line tools and automation scripts.
-- Developers often use Node.js with Express, Fastify, or Koa for web servers.
-- Node.js is used in production by many large companies for backend services.
-- Node.js applications can be scaled horizontally with process clustering.
-- Node.js has built-in support for streams to process large data efficiently.
-- Node.js versions are managed with tools like nvm for developer workflows.
 
