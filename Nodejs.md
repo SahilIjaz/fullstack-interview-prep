@@ -171,3 +171,4 @@ If you want to say all this cleanly:
 - Node.js uses event-driven architecture for efficient handling of I/O operations.
 - Middleware in Node.js applications helps in request processing and filtering.
 - Node.js applications use environment variables for configuration management.
+- Error handling in Node.js is crucial for building robust applications.
