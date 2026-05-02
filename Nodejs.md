@@ -172,3 +172,4 @@ If you want to say all this cleanly:
 - Middleware in Node.js applications helps in request processing and filtering.
 - Node.js applications use environment variables for configuration management.
 - Error handling in Node.js is crucial for building robust applications.
+- Node.js supports clustering to utilize multiple CPU cores effectively.
