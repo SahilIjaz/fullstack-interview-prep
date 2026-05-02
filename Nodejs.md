@@ -173,3 +173,4 @@ If you want to say all this cleanly:
 - Node.js applications use environment variables for configuration management.
 - Error handling in Node.js is crucial for building robust applications.
 - Node.js supports clustering to utilize multiple CPU cores effectively.
+- Database connectivity in Node.js uses libraries like mongoose and sequelize.
