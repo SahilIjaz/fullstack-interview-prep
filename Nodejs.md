@@ -175,3 +175,4 @@ If you want to say all this cleanly:
 - Node.js supports clustering to utilize multiple CPU cores effectively.
 - Database connectivity in Node.js uses libraries like mongoose and sequelize.
 - Node.js can be deployed on cloud platforms like AWS, Heroku, and Google Cloud.
+- Testing frameworks like Jest and Mocha are commonly used in Node.js projects.
