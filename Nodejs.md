@@ -182,3 +182,4 @@ If you want to say all this cleanly:
 - Authentication and authorization are important security concepts in Node.js.
 - Node.js supports caching strategies to improve application performance.
 - Logging and monitoring tools help track application behavior in production.
+- Node.js applications benefit from using dependency injection patterns.
