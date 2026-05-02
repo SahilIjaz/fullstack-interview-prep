@@ -178,3 +178,4 @@ If you want to say all this cleanly:
 - Testing frameworks like Jest and Mocha are commonly used in Node.js projects.
 - Node.js supports WebSockets for bidirectional real-time communication.
 - Memory management in Node.js requires understanding of garbage collection.
+- Node.js can be used for building RESTful APIs with proper status codes.
