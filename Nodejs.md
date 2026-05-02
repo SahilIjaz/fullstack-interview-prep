@@ -177,3 +177,4 @@ If you want to say all this cleanly:
 - Node.js can be deployed on cloud platforms like AWS, Heroku, and Google Cloud.
 - Testing frameworks like Jest and Mocha are commonly used in Node.js projects.
 - Node.js supports WebSockets for bidirectional real-time communication.
+- Memory management in Node.js requires understanding of garbage collection.
