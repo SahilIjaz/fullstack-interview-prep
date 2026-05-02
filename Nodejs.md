@@ -184,3 +184,4 @@ If you want to say all this cleanly:
 - Logging and monitoring tools help track application behavior in production.
 - Node.js applications benefit from using dependency injection patterns.
 - Container technologies like Docker make Node.js deployment reproducible.
+- Node.js supports GraphQL for flexible API query and data manipulation.
