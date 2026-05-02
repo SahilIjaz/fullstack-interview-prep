@@ -167,3 +167,4 @@ If you want to say all this cleanly:
 
 - Node.js package manager npm makes installing and sharing libraries easy.
 - Node.js allows developers to use JavaScript on both frontend and backend.
+- The npm ecosystem contains millions of packages for various functionalities.
