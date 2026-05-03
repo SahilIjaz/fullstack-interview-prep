@@ -19,3 +19,5 @@
 # Task: import-data - completed successfully
 
 # Task: session-management - completed successfully
+
+# Task: two-factor-auth - completed successfully
