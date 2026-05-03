@@ -11,3 +11,5 @@
 # Task: email-service - completed successfully
 
 # Task: search-feature - completed successfully
+
+# Task: sorting - completed successfully
