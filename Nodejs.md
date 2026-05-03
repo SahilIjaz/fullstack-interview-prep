@@ -232,3 +232,5 @@ If you want to say all this cleanly:
 # Task: naming-conventions - completed successfully
 
 # Task: performance-tuning - completed successfully
+
+# Task: scalability - completed successfully
