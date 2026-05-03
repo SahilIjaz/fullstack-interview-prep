@@ -220,3 +220,5 @@ If you want to say all this cleanly:
 # Task: ab-testing - completed successfully
 
 # Task: custom-metrics - completed successfully
+
+# Task: trace-analysis - completed successfully
