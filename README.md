@@ -21,3 +21,5 @@
 # Task: session-management - completed successfully
 
 # Task: two-factor-auth - completed successfully
+
+# Task: jwt-token - completed successfully
