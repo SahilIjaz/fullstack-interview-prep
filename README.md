@@ -23,3 +23,5 @@
 # Task: two-factor-auth - completed successfully
 
 # Task: jwt-token - completed successfully
+
+# Task: unit-tests - completed successfully
