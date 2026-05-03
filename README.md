@@ -41,3 +41,5 @@
 # Task: background-jobs - completed successfully
 
 # Task: message-broker - completed successfully
+
+# Task: websocket-server - completed successfully
