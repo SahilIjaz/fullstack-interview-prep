@@ -25,3 +25,5 @@
 # Task: jwt-token - completed successfully
 
 # Task: unit-tests - completed successfully
+
+# Task: e2e-tests - completed successfully
