@@ -218,3 +218,5 @@ If you want to say all this cleanly:
 # Task: rollback-procedure - completed successfully
 
 # Task: ab-testing - completed successfully
+
+# Task: custom-metrics - completed successfully
