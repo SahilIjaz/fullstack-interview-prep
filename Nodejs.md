@@ -244,3 +244,5 @@ If you want to say all this cleanly:
 # Task: durability - completed successfully
 
 # Task: partition-tolerance - completed successfully
+
+# Task: latency-reduction - completed successfully
