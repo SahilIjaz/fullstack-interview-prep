@@ -10,3 +10,5 @@
 # Task: oauth-integration - completed successfully
 
 # Task: refresh-token - completed successfully
+
+# Task: api-docs - completed successfully
