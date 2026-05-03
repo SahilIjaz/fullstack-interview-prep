@@ -238,3 +238,5 @@ If you want to say all this cleanly:
 # Task: maintainability - completed successfully
 
 # Task: extensibility - completed successfully
+
+# Task: reliability - completed successfully
