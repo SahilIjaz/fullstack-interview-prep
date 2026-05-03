@@ -246,3 +246,5 @@ If you want to say all this cleanly:
 # Task: partition-tolerance - completed successfully
 
 # Task: latency-reduction - completed successfully
+
+# Task: resource-allocation - completed successfully
