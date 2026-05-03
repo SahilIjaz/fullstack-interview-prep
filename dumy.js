@@ -42,3 +42,5 @@
 # Task: code-standards - completed successfully
 
 # Task: best-practices - completed successfully
+
+# Task: design-patterns - completed successfully
