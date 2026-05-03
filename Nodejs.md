@@ -224,3 +224,5 @@ If you want to say all this cleanly:
 # Task: trace-analysis - completed successfully
 
 # Task: deployment-guide - completed successfully
+
+# Task: troubleshooting-guide - completed successfully
