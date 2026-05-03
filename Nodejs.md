@@ -214,3 +214,5 @@ If you want to say all this cleanly:
 # Task: release-management - completed successfully
 
 # Task: hotfix-deployment - completed successfully
+
+# Task: rollback-procedure - completed successfully
