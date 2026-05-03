@@ -200,3 +200,5 @@ If you want to say all this cleanly:
 # Task: filtering - completed successfully
 
 # Task: rate-limiting - completed successfully
+
+# Task: integration-tests - completed successfully
