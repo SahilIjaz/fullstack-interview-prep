@@ -242,3 +242,5 @@ If you want to say all this cleanly:
 # Task: reliability - completed successfully
 
 # Task: durability - completed successfully
+
+# Task: partition-tolerance - completed successfully
