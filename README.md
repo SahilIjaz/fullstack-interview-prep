@@ -37,3 +37,5 @@
 # Task: monitoring-alerts - completed successfully
 
 # Task: webhooks - completed successfully
+
+# Task: background-jobs - completed successfully
