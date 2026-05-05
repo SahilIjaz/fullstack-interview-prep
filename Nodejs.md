@@ -274,3 +274,5 @@ If you want to say all this cleanly:
 # Commit 5 - completed
 
 # Commit 6 - completed
+
+# Commit 8 - completed
