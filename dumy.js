@@ -114,3 +114,5 @@
 # Task 2 - successfully completed
 
 # Task 4 - successfully completed
+
+# Task 6 - successfully completed
