@@ -4,7 +4,6 @@ Good start—but a couple of your points need correction first:
 * Node.js itself is **not a JS engine** → it *uses* the **Google Chrome V8 engine**
 * Node is **not purely synchronous** → it’s **single-threaded but non-blocking (async by design)**
 
-
 Now I’ll rewrite your notes properly—from **basic → experienced level** in the same simple style 👇
 
 ---
