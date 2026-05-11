@@ -6,7 +6,6 @@ Good start—but a couple of your points need correction first:
 
 Now I’ll rewrite your notes properly—from **basic → experienced level** in the same simple style 👇
 
-
 ---
 
 # 🟢 **Level 1 — Basic Understanding**
