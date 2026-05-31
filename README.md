@@ -267,3 +267,4 @@
 # Commit 21: Added unit testing framework
 # Commit 22: Implemented CI/CD pipeline
 # Commit 23: Added Docker containerization
+# Commit 24: Configured environment variables
