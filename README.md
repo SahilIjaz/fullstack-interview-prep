@@ -329,3 +329,4 @@
 # Commit 83: Added video streaming support
 # Commit 84: Implemented WebRTC peer-to-peer
 # Commit 85: Added screen recording feature
+# Commit 86: Implemented media transcoding
