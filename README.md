@@ -327,3 +327,4 @@
 # Commit 81: Added voice command recognition
 # Commit 82: Implemented text-to-speech engine
 # Commit 83: Added video streaming support
+# Commit 84: Implemented WebRTC peer-to-peer
