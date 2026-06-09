@@ -348,3 +348,4 @@
 # Commit 102: Implemented yield farming
 # Commit 103: Added flash loan support
 # Commit 104: Implemented margin trading
+# Commit 105: Added options trading
