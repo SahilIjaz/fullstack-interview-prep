@@ -356,3 +356,4 @@
 # Commit 110: Implemented tax reporting tools
 # Commit 111: Added fiat on-ramp/off-ramp
 # Commit 112: Implemented cross-chain bridges
+# Commit 113: Added wrapped token support
