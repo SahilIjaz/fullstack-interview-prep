@@ -354,3 +354,4 @@
 # Commit 108: Implemented risk management
 # Commit 109: Added automated rebalancing
 # Commit 110: Implemented tax reporting tools
+# Commit 111: Added fiat on-ramp/off-ramp
