@@ -423,3 +423,4 @@
 # Commit 177: Added authorization rules
 # Commit 178: Implemented rate limit directives
 # Commit 179: Added caching directives
+# Commit 180: Implemented depth limiting
