@@ -417,3 +417,4 @@
 # Commit 171: Added schema stitching
 # Commit 172: Implemented directive support
 # Commit 173: Added custom scalar types
+# Commit 174: Implemented input validation
