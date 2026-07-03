@@ -416,3 +416,4 @@
 # Commit 170: Implemented federation support
 # Commit 171: Added schema stitching
 # Commit 172: Implemented directive support
+# Commit 173: Added custom scalar types
