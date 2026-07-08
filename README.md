@@ -439,3 +439,4 @@
 # Commit 193: Implemented API rate limiting
 # Commit 194: Added API response caching
 # Commit 195: Implemented ETags support
+# Commit 196: Added content negotiation
