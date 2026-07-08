@@ -440,3 +440,4 @@
 # Commit 194: Added API response caching
 # Commit 195: Implemented ETags support
 # Commit 196: Added content negotiation
+# Commit 197: Implemented compression support
